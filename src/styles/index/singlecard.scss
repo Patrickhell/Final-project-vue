@@ -1,0 +1,8 @@
+.bd_card-bg {
+    background: rgb(255,255,255);
+    background: linear-gradient(53deg, rgba(255,255,255,1) 0%, rgba(204,243,237,1) 97%);
+
+    &:hover {
+        background: rgb(204,243,237,1);
+    }
+}
