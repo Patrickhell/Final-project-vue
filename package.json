@@ -1,0 +1,30 @@
+{
+  "name": "projectteam7-testvue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.7.16",
+    "@heroicons/vue": "^2.0.18",
+    "axios": "^1.5.0",
+    "chart.js": "^4.4.0",
+    "flowbite": "^1.8.1",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.4",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.6",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29",
+    "sass": "^1.66.1",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5"
+  }
+}
