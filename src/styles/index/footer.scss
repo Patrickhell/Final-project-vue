@@ -1,0 +1,9 @@
+@use "./../partials/variables.scss" as *;
+
+    .bd_footer-primary {
+        background-color: $neutral-bg;
+        margin-top: 180px;
+    }
+    .bd_footer-secondary {
+        background-color: #9CD4CB;
+    }
